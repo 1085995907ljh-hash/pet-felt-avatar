@@ -1,0 +1,4 @@
+interface:
+  display_name: "毛绒帽帽宠物头像"
+  short_description: "保留宠物辨识特征，先卡通化再加毛毡质感，自动搭配可爱帽子与背景"
+  default_prompt: "使用 $pet-felt-avatar，把我的宠物先卡通化再转成毛毡头像，摆正头部并轻度3/4转头，自行设计适合的动物、物体、食物或卡通形象帽子与单色毛毡背景。"
